@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dev | Rony Souza</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="imagex/png" href="planeta-terra.png">
+    <script>window.confirm("Seja bem vindo ao meu portifólio")</script>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo"><img src="rony_logo.png" alt=""></div>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Services</a></li>
+                <li><a href="">Portfolio</a></li>
+                <li><a href="">Contact</a></li>
+            </ul>
+            <div class="btn">Fale comigo</div>
+        </nav>
+        <div class="hero-section">
+            <div class="left">
+                <h1>Olá! Eu sou o <span>Rony!</span></h1>
+                <p>Sou estudante do quarto de período de estatística. Estou estudando para me tornar um desenvolvedor de software e estou utilizando esse projeto para treinar a ferramenta que é utilizada diaramente na rotina do desenvolvedor que é o Git, ferramenta de versionamento de código.</p>
+                <div class="btn">Download CV</div>
+            </div>
+            <div class="right">
+                <img src="user.png" alt="">
+            </div>
+        </div>
+    </header>
+</body>
+</html>
